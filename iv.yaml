@@ -14,12 +14,12 @@ recurso:
         paid_amount: !!int 0
         fraction: !!float 0.5
         paid: !!bool false
-        id: '1'
+        id: 'id1'
       - name: Gustavo
         paid_amount: !!int 0
         fraction: !!float 0.5
         paid: !!bool false
-        id: '2'
+        id: 'id2'
     items:
       - date: !!int 23
         price: !!float 3.3
